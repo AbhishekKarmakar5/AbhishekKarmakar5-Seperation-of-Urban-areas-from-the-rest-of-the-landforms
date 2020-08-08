@@ -12,3 +12,5 @@ Starting from user-defined markers, the watershed algorithm treats pixels values
 * watershed2 - where the pixel values are !=1, the other landforms other than urban has been greened.
 * watershed3 - where the pixel values are ==-1, the border has been marked which seperated the two of them (urban and the other landforms)
 * watershed4 - where the pixel values are !=-1, the border line has been visualised at great ease.
+
+![just4](https://user-images.githubusercontent.com/39180928/89710469-e9479a00-d9a0-11ea-9863-41816e49ee92.jpg)

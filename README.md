@@ -1,4 +1,4 @@
-# AbhishekKarmakar5-Seperation-of-Urban-areas-from-the-rest-of-the-landforms
+# Seperation-of-Urban-areas-from-the-rest-of-the-landforms
 The Urban Areas has been extrated out from the landset image. The main idea of this reprojectory is to extract out the area which contain the densly populated place.
 
 # Watershed segmentation

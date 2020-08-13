@@ -18,3 +18,5 @@ Starting from user-defined markers, the watershed algorithm treats pixels values
 ![kop1](https://user-images.githubusercontent.com/39180928/89778161-aa455000-db2a-11ea-95b6-842138741911.jpg)
 
 ![lol4](https://user-images.githubusercontent.com/39180928/89873829-a53eda00-dbd8-11ea-91e9-2848763a3357.jpg)
+
+![pop7](https://user-images.githubusercontent.com/39180928/90147319-b2f28c00-dd9f-11ea-9e96-bd34b12b1057.jpg)
